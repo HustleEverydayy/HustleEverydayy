@@ -23,12 +23,6 @@ You can find the projects I’ve built and experimented with on my GitHub.
 
 ---
 
-## 🔭 Goals for 2025
-- Improve my **English communication** (reading/writing/speaking) and keep learning consistently  
-- Build more **real-world LLM/AI projects** and contribute to **open source**  
-- Strengthen **system design** and **engineering quality** (testing, evaluation, maintainability)
-
----
 
 ## 🧠 Tech Stack
 
